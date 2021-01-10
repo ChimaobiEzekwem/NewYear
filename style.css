@@ -1,0 +1,62 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+.background button{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    border: 2px solid black;
+    text-align: center;
+    font-family: cursive;
+    font-size: 20px;
+}
+
+.form button {
+    width: 100px;
+    height: 30px;
+    border-radius: 10%;
+    border: 2px solid black;
+}
+
+#red {
+    background: red;
+}
+
+#green {
+    background: green;
+}
+
+#blue{
+    background: blue;
+}
+
+#black{
+    background: black;
+}
+
+#purple {
+    background: purple;
+}
+
+#pink {
+    background: pink;
+}
+
+#orange {
+    background: orange;
+}
+
+#yellow{
+    background: yellow;
+}
+
+#brown {
+    background: brown;
+}
+
+#grey {
+    background: grey;
+}
